@@ -1,0 +1,9 @@
+hooks/
+node_modules/
+platforms/
+plugins/
+.bithoundrc
+config.xml
+CONTRIBUTING.md
+package.json
+README.md
